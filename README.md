@@ -16,3 +16,18 @@ List of software packages for proteomics including Mass spectrometry
 * pView 2
 * mzMine 2
 * Census
+
+# Databases
+* UniProt
+* neXtProt
+* SwissVar
+* Protein Atlas
+
+# MS Databases
+* ProteomeXchange
+* PRIDE
+* MassIVE
+* jPost
+* iProX
+* Peptide Atlas
+* omicsDI
