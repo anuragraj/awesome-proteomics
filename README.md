@@ -10,7 +10,13 @@ List of software packages for proteomics including Mass spectrometry
   **Links** -   
      Website - ftp://ftp.ncbi.nih.gov/pub/lewisg/omssa/  
   
-* MassWiz
+* MassWiz  
+  **Purpose** - MS/MS search algorithm  
+  **Advantage** - A novel empirical scoring function that gives appropriate weights to major ions, continuity of b-y ions, intensities, and the supporting neutral losses based on the instrument type  
+  **Publication** - Yadav AK, Kumar D, Dash D. MassWiz: a novel scoring algorithm with target-decoy based analysis pipeline for tandem mass spectrometry. Journal of proteome research. 2011 May 6;10(5):2154-60.    
+  **License** - Free   
+  **Links** -   
+     Website - https://sourceforge.net/projects/masswiz/
 * InsPecT
 * X!Tandem
 * Mascot
