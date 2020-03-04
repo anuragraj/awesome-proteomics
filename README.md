@@ -1,5 +1,18 @@
 # awesome-proteomics  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-List of software packages for proteomics including Mass spectrometry
+
+A curated list of awesome Proteomics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to contribute!  
+
+##Table of Contents  
+### Database search algorithms  
+* OMSSA  
+* MassWiz  
+* MSGFPlus   
+* X!Tandem  
+* Mascot  
+* SEQUEST  
+* MSFragger  
+* InsPecT  
+
 
 # Database search algorithms
 * OMSSA (2004)  
