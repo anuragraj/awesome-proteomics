@@ -1,3 +1,18 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
+
+- [awesome-proteomics  *](#awesome-proteomics--)
+    - [Table of Contents](#table-of-contents)
+      - [Database search algorithms](#database-search-algorithms)
+      - [MS Databases](#ms-databases)
+  - [Database search algorithms](#database-search-algorithms-1)
+  - [MS/MS peptide quantification](#msms-peptide-quantification)
+  - [Databases](#databases)
+  - [MS Databases](#ms-databases-1)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # awesome-proteomics  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
   
 A curated list of awesome Proteomics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to contribute!   
