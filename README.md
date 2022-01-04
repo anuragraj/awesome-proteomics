@@ -1,29 +1,37 @@
 # awesome-proteomics  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
   
-A curated list of awesome Proteomics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to contribute!   
+A curated list of awesome Proteomics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](CONTRIBUTING.md)!   
 
-### Table of Contents  
-#### Database search algorithms  
-* OMSSA  
-* MassWiz  
-* MSGFPlus   
-* X!Tandem  
-* Mascot  
-* SEQUEST  
-* MSFragger  
-* InsPecT  
+<!-- START generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN TOC Generator TO UPDATE -->
 
-#### MS Databases  
-* ProteomeXchange  
-* PRIDE  
-* MassIVE  
-* jPost  
-* iProX  
-* Peptide Atlas  
-* omicsDI  
+
+
+
+
+<!-- END TOC Generator generated TOC please keep comment here to allow auto update -->
 
 ---
-## Database search algorithms
+
+## Proteomics Databases
+
+### Databases
+* UniProt
+* neXtProt
+* SwissVar
+* Protein Atlas
+
+### Mass Spectrometry Databases
+* ProteomeXchange
+* PRIDE
+* MassIVE
+* jPost
+* iProX
+* Peptide Atlas
+* omicsDI
+
+
+### Database search algorithms
 * OMSSA (2004)  
   **Purpose** - Efficient MS/MS search algorithm  
   **Advantage** - Specificity is calculated by a classic probability score using an explicit model for matching experimental spectra to sequences  
@@ -79,7 +87,7 @@ A curated list of awesome Proteomics software, resources, and libraries. Mostly 
      Website - http://pfind.ict.ac.cn/software/pFind3   
      GitHub - https://github.com/pFindStudio/pFind3  			
     
-## MS/MS peptide quantification
+### MS/MS peptide quantification
 * MaxQuant
 * msInspect
 * OpenMS/TOPP
@@ -87,17 +95,4 @@ A curated list of awesome Proteomics software, resources, and libraries. Mostly 
 * mzMine 2
 * Census
 
-## Databases
-* UniProt
-* neXtProt
-* SwissVar
-* Protein Atlas
 
-## MS Databases
-* ProteomeXchange
-* PRIDE
-* MassIVE
-* jPost
-* iProX
-* Peptide Atlas
-* omicsDI
