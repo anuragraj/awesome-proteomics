@@ -3,13 +3,11 @@
 ## Table of Contents
 
 - [awesome-proteomics  *](#awesome-proteomics--)
-    - [Table of Contents](#table-of-contents)
-      - [Database search algorithms](#database-search-algorithms)
-      - [MS Databases](#ms-databases)
-  - [Database search algorithms](#database-search-algorithms-1)
-  - [MS/MS peptide quantification](#msms-peptide-quantification)
-  - [Databases](#databases)
-  - [MS Databases](#ms-databases-1)
+  - [Proteomics Databases](#proteomics-databases)
+    - [Databases](#databases)
+    - [Mass Spectrometry Databases](#mass-spectrometry-databases)
+    - [Database search algorithms](#database-search-algorithms)
+    - [MS/MS peptide quantification](#msms-peptide-quantification)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
