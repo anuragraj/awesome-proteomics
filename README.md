@@ -120,7 +120,10 @@ Proteomics is the study of proteins in biological systems. It involves the large
      GitHub - https://github.com/pFindStudio/pFind3  			
     
 ### MS/MS peptide quantification
-* MaxQuant
+* [MaxQuant](https://www.maxquant.org/)   
+  MaxQuant is a proteomics software package designed for analyzing large mass-spectrometric data sets using Andromeda search engine. It supports several labeling techniques as well as label-free quantification.
+* [MetaMorpheus](https://smith-chem-wisc.github.io/MetaMorpheus/)  
+  MetaMorpheus is a bottom-up proteomics database search software with integrated post-translational modification (PTM) discovery capability.
 * msInspect
 * OpenMS/TOPP
 * pView 2
